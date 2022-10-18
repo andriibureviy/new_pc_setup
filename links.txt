@@ -1,2 +1,0 @@
-https://opensource.com/article/20/8/iterm2-zsh - Iterm + ZSH
-https://github.com/zayneio/macbook-setup - Homebrew + Some Tools
