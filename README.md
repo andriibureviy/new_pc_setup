@@ -1,4 +1,4 @@
-# Macbook Setup
+# Laptop Setup
 An attempt at consolidating some of this stuff to reduce future google searches.
 
 ## Useful Links
