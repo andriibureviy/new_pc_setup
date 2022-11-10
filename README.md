@@ -111,3 +111,14 @@ gem install bundler
 ```shell
 brew install python
 ```  
+
+## Apps to use 
+Telegram
+Chrome
+CopyQ/Paste
+Caffeine
+flameShot 
+Discord
+SimpleRecord
+VsCode/RubyMine/Pycharm/Vim(+Pluggins)
+
