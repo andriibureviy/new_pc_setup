@@ -1,3 +1,4 @@
+
 # Laptop Setup
 An attempt at consolidating some of this stuff to reduce future google searches.
 
@@ -112,13 +113,18 @@ gem install bundler
 brew install python
 ```  
 
-## Apps to use 
-Telegram
-Chrome
-CopyQ/Paste
-Caffeine
-flameShot 
-Discord
-SimpleRecord
-VsCode/RubyMine/Pycharm/Vim(+Pluggins)
+## VIM
+- [VIM links]
 
+## Apps to use 
+- Telegram
+- Chrome
+- CopyQ/Paste
+- Caffeine
+- flameShot 
+- Discord
+- SimpleRecord
+- VsCode/RubyMine/Pycharm/Vim(+Pluggins)
+- 
+
+ [VIM links]: <https://coderwall.com/p/1b5zcg/setup-vim-for-ruby-on-rails-osx>
