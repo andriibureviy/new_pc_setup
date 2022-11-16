@@ -12,7 +12,7 @@ An attempt at consolidating some of this stuff to reduce future google searches.
 https://www.iterm2.com/
 
 ```shell
-brew cask install iterm2
+brew install iterm2 --cask
 ```  
 
 *(Note: See below for installing homebrew)*
@@ -25,7 +25,7 @@ https://github.com/mbadolato/iTerm2-Color-Schemes
 https://code.visualstudio.com/
 
 ```shell
-brew cask install visual-studio-code
+brew install visual-studio-code --cask
 ```  
 
 **Shortcut For VSCode**  
