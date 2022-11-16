@@ -12,7 +12,7 @@ An attempt at consolidating some of this stuff to reduce future google searches.
 https://www.iterm2.com/
 
 ```shell
-brew cask install iterm2
+brew install iterm2 --cask
 ```  
 
 *(Note: See below for installing homebrew)*
@@ -25,7 +25,7 @@ https://github.com/mbadolato/iTerm2-Color-Schemes
 https://code.visualstudio.com/
 
 ```shell
-brew cask install visual-studio-code
+brew install visual-studio-code --cask
 ```  
 
 **Shortcut For VSCode**  
@@ -62,6 +62,22 @@ https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
 
 ## Install oh-my-zsh
 ```sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"```
+
+## Fonts for iterm2(fix[?])
+## Best font - Inconsolata for PowerShell
+create folder
+cd folder
+
+git clone https://github.com/powerline/fonts.git
+
+cd fonts
+
+./install.sh
+
+## Plugins that need additional installing
+
+git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting
 
 
 ## Set zsh as your default shell
@@ -125,6 +141,7 @@ brew install python
 - Discord
 - SimpleRecord
 - VsCode/RubyMine/Pycharm/Vim(+Pluggins)
+- Docker Desktop
 - 
 
  [VIM links]: <https://coderwall.com/p/1b5zcg/setup-vim-for-ruby-on-rails-osx>
