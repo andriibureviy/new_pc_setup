@@ -64,7 +64,7 @@ https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
 ```sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"```
 
 ## Fonts for iterm2(fix[?])
-## Best font - Inconsolata for PowerShell
+### Best font - Inconsolata for PowerShell
 create folder
 cd folder
 
