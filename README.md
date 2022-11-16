@@ -63,6 +63,22 @@ https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
 ## Install oh-my-zsh
 ```sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"```
 
+## Fonts for iterm2(fix[?])
+## Best font - Inconsolata for PowerShell
+create folder
+cd folder
+
+git clone https://github.com/powerline/fonts.git
+
+cd fonts
+
+./install.sh
+
+## Plugins that need additional installing
+
+git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting
+
 
 ## Set zsh as your default shell
 If you don’t get prompted to do this when installing oh-my-zsh, try this:   
@@ -125,6 +141,7 @@ brew install python
 - Discord
 - SimpleRecord
 - VsCode/RubyMine/Pycharm/Vim(+Pluggins)
+- Docker Desktop
 - 
 
  [VIM links]: <https://coderwall.com/p/1b5zcg/setup-vim-for-ruby-on-rails-osx>
