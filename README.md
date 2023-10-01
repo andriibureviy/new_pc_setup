@@ -7,7 +7,8 @@ An attempt at consolidating some of this stuff to reduce future google searches.
 - iTerm: https://www.iterm2.com/
 - VSCode: https://code.visualstudio.com/
 - Oh-my-zsh: https://ohmyz.sh/
--Congig the Ubuntu: https://gorails.com/setup/ubuntu/22.04
+- Config Ubuntu: https://gorails.com/setup/ubuntu/22.04
+  
 ## Install iTerm2
 https://www.iterm2.com/
 
