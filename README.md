@@ -8,6 +8,10 @@ An attempt at consolidating some of this stuff to reduce future google searches.
 - VSCode: https://code.visualstudio.com/
 - Oh-my-zsh: https://ohmyz.sh/
 - Config Ubuntu: https://gorails.com/setup/ubuntu/22.04
+
+### Yabai 
+https://www.etiennetheodore.com/yabai-srh/ 
+sh setup_yabai_skhd.sh
   
 ## Install iTerm2
 https://www.iterm2.com/
